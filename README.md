@@ -28,8 +28,29 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 
 | Session         | Notebook link         | Exercises |
 | :------------- | :------------- | ----| 
-| 1 | [Introduction to Machine Learning](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/notebooks/01-IntroMachineLearning.ipynb)|  |
-| 2 | [Introduction to Python](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/notebooks/02-IntroPython.ipynb) | [01 - Python  & Numpy](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/exercises/02-Python%26Numpy.ipynb) |
-| 3 | [Pandas Data Frame](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/notebooks/03-Pandas.ipynb) | [03 - Baby names](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/exercises/03-BabyNames.ipynb) |
-| 4 | [Linear Regression](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/notebooks/04-linear_regression.ipynb) | [04 - Bikes Rent](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/exercises/04-BikesRent.ipynb) |
-| 5 | [Logistic Regression](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/notebooks/05-logistic_regression.ipynb) | [05 - Intrusion Detection](http://nbviewer.jupyter.org/github/albahnsen/ML_SecurityInformatics/blob/master/exercises/05-IntrusionDetection.ipynb) |
+| 1 | [Introduction to Machine Learning](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/01-IntroMachineLearning.ipynb)|  |
+| 2 | [Introduction to Python](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/02-IntroPython.ipynb) | [Python  & Numpy](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/02-Python%26Numpy.ipynb) 
+|
+| 3 | [Pandas Data Frame](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/03-Pandas.ipynb) | [Baby names](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/03-BabyNames.ipynb) |
+| 4 | [Linear Regression](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/04-linear_regression.ipynb) | [Income Prediction Rent](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/04-IncomePrediction.ipynb) 
+|
+| 5 | [Logistic Regression](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/05-logistic_regression.ipynb) | [Credit Scoring](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/05-CreditScoring.ipynb) 
+|
+| 6 | [Data Preparation and Model Evaluation](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/06-data_preparation_evaluation.ipynb) | [Credit Scoring V2](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/06-creditscoring_cross_validation.ipynb) 
+|
+| 7 | [Feature Selection](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/07-feature_selection.ipynb) | [Income Prediction V2](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/07-IncomePrediction-Features.ipynb) 
+|
+| 8 | [Unbalance Datasets](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/08_Unbalanced_Datasets.ipynb) | [Fraud Detection](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/08-fraud_detection_sampling.ipynb) 
+|
+| 9 | [Decision Trees](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/09_decision_trees.ipynb) | [Fraud Detection V2](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/09-fraud_detection_DT.ipynb) 
+|
+| 10 | [Ensemble Methods - Bagging](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/10_EnsembleMethods_Bagging.ipynb) | [Fraud Detection V3](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/10-fraud_ensemble_bagging.ipynb) 
+|
+| 11 | [Ensemble Methods - Boosting](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/11_EnsembleMethods_cont.ipynb) | [Credit Scoring V3](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/11-creditscoring_Voting_Boosting.ipynb) 
+|
+| 12 | [SVM](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/12-SVM.ipynb) | [Fraud Detection V4](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/12-fraud_SVM.ipynb) 
+|
+| 13 | [Cost-Sensitive Classification](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/13_CostSensitiveClassification.ipynb) | [Credit Scoring V4](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/13_CS_Churn.ipynb) 
+|
+| 14 | [Deep Learning](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/14_Intro_DeepLearning.ipynb) | |
+
