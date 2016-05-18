@@ -28,10 +28,12 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 
 | Session         | Notebook link         | Exercises |
 | :------------- | :------------- | ----| 
-| 1 | [Introduction to Machine Learning](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/01-IntroMachineLearning.ipynb)|  |
+| 1 | [Introduction to Machine Learning](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/01-IntroMachineLearning.ipynb)| 
+|
 | 2 | [Introduction to Python](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/02-IntroPython.ipynb) | [Python  & Numpy](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/02-Python%26Numpy.ipynb) 
 |
-| 3 | [Pandas Data Frame](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/03-Pandas.ipynb) | [Baby names](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/03-BabyNames.ipynb) |
+| 3 | [Pandas Data Frame](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/03-Pandas.ipynb) | [Baby names](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/03-BabyNames.ipynb)
+|
 | 4 | [Linear Regression](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/04-linear_regression.ipynb) | [Income Prediction Rent](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/04-IncomePrediction.ipynb) 
 |
 | 5 | [Logistic Regression](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/05-logistic_regression.ipynb) | [Credit Scoring](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/05-CreditScoring.ipynb) 
