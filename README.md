@@ -7,7 +7,7 @@ This course on Machine Learning will explain how to build systems that learn and
 
 *Instructors:* 
 
-*Dr. Alejandro Correa Bahnsen *
+*Dr. Alejandro Correa Bahnsen*
 
 - email: <al.bahnsen@gmail.com>
 - twitter: [@albahnsen](https://twitter.com/albahnsen)
