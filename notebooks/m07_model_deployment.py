@@ -7,7 +7,7 @@ import sys
 
 def predict_proba(url):
 
-    clf = joblib.load('data/07_phishing_clf.pkl') 
+    clf = joblib.load('../datasets/model_deployment/07_phishing_clf.pkl') 
 
     url_ = pd.DataFrame([url], columns=['url'])
   
