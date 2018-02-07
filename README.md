@@ -5,11 +5,15 @@ The use of statistical models in computer algorithms allows computers to make de
 
 This course on Machine Learning will explain how to build systems that learn and adapt using real-world applications. Some of the topics to be covered include linear regression, logistic regression, deep neural networks, clustering, and so forth. The course will be project-oriented, with emphasis placed on writing software implementations of learning algorithms applied to real-world problems, in particular, Credit Risk, Collections Management and Fraud Detection.
 
-*Instructor: Dr. Alejandro Correa Bahnsen & Iván Torroledo*
+*Instructors:* 
+
+*Dr. Alejandro Correa Bahnsen *
 
 - email: <al.bahnsen@gmail.com>
 - twitter: [@albahnsen](https://twitter.com/albahnsen)
 - github: [albahnsen](http://github.com/albahnsen)
+
+*Iván Torroledo*
 
 - email: <ivan.torroledo@gmail.com>
 - github: [torroledo](http://github.com/torroledo)
