@@ -45,4 +45,4 @@ GIT!! Unfortunatelly out of the scope of this class, but please take a look at t
 | 8 | [Ensemble Methods - Bagging](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/10_EnsembleMethods_Bagging.ipynb) | [Fraud Detection V3](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/08-fraud_ensemble_bagging.ipynb) |
 | 9 | [Statistical Inference](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/09_StatisticalInference.ipynb) |  |
 | 10 | [Cost-Sensitive Classification](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/10_CostSensitiveClassification.ipynb) | [Credit Scoring V4](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/exercises/10_CS_Churn.ipynb) |
-| 11 | [Deep Learning](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/11_Intro_DeepLearning.ipynb) |
+| 11 | [Deep Learning](http://nbviewer.jupyter.org/github/albahnsen/ML_RiskManagement/blob/master/notebooks/11_Model_Deployment.ipynb) |
